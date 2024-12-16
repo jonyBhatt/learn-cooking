@@ -1,4 +1,4 @@
-# Project Description for the Food Learning Website
+# Learn Cooking Website
 
 ## **Discover the Joy of Cooking with AI-Powered Learning**  
 Welcome to the ultimate destination for food enthusiasts and aspiring chefs! Our Food Learning website is your one-stop solution to explore, learn, and master cooking from cuisines across the globe. Whether you’re a seasoned cook or just starting your culinary journey, we’ve got something special for everyone.  
