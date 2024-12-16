@@ -1,10 +1,12 @@
-```markdown
-### Project Description for the Food Learning Website
+# Project Description for the Food Learning Website
 
-**Discover the Joy of Cooking with AI-Powered Learning**  
+## **Discover the Joy of Cooking with AI-Powered Learning**  
 Welcome to the ultimate destination for food enthusiasts and aspiring chefs! Our Food Learning website is your one-stop solution to explore, learn, and master cooking from cuisines across the globe. Whether you’re a seasoned cook or just starting your culinary journey, we’ve got something special for everyone.  
 
-### **Why Choose Us?**
+---
+
+## **Why Choose Us?**  
+
 🌎 **Global Recipes at Your Fingertips**  
 Search and discover recipes from every corner of the world. Learn to prepare exotic dishes or your favorite comfort food with ease.  
 
@@ -20,13 +22,16 @@ Got questions while cooking? Our AI assistant is here to help! Ask for tips, sub
 💡 **Personalized Experience**  
 Get custom recipe suggestions based on your dietary preferences, skill level, or ingredient availability. Whether it’s vegan, gluten-free, or quick meals, we’ve got you covered.  
 
-### **Key Features**  
+---
+
+## **Key Features**  
 - **AI-Generated Video Tutorials**: Watch and learn visually for a seamless cooking experience.  
 - **Step-by-Step Instructions**: Follow easy and precise instructions for every recipe.  
 - **Dynamic Search**: Find recipes instantly based on ingredients, cuisine, or dietary needs.  
 - **Interactive Mode**: Cook step-by-step with AI guiding you in real time.  
 - **Save & Share Favorites**: Bookmark your favorite recipes and share them with friends and family.  
 
-### **Start Your Culinary Adventure Today!**  
+---
+
+## **Start Your Culinary Adventure Today!**  
 Unleash your inner chef with the power of AI. Whether you want to learn how to make sushi, bake a perfect cake, or whip up a quick healthy dinner, our platform makes it fun, easy, and exciting.  
-```
